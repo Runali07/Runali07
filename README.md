@@ -41,7 +41,7 @@
 
 ### 🤝 Let's Connect
 - Email: runalibehera17@gmail.com
-- LinkedIn: [Runali Behera](https://www.linkedin.com/in/runali-behera-7b9a68323/))
+- LinkedIn: [Runali Behera](https://www.linkedin.com/in/runali-behera-7b9a68323/)
 
 ---
 
