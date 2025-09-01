@@ -1,6 +1,6 @@
 # Hi there 👋, I'm **Runali Behera**
 
-🎓 **1st-year CSE Student (AI/ML) @ Chandigarh University**  
+🎓 ** CSE Student (AI/ML) @ Chandigarh University**  
 💡 Passionate about **Artificial Intelligence, Machine Learning, and Coding**  
 
 ---
