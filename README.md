@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-008080?style=flat&logo=arduino&logoColor=white)
+
 
 ---
 
@@ -33,7 +33,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Runali's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkBytezz&show_icons=true&theme=radical)
+![Runali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Runali07_icons=true&theme=radical)
 
 ---
 
