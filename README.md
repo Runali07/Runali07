@@ -1,28 +1,45 @@
 # Hi there 👋, I'm **Runali Behera**
 
-🎓 **CSE Student (AI/ML) @ Chandigarh University**  
+🎓 **1st-year CSE Student (AI/ML) @ Chandigarh University**  
 💡 Passionate about **Artificial Intelligence, Machine Learning, and Coding**  
 
 ---
 
-🔭 **I’m currently working on:**  
+### 🔭 Currently Working On
 - Learning **Advanced Data Structures & Algorithms** 🌳  
+- Exploring **AI/ML Projects** 🤖  
+- Experimenting with **Embedded Systems & ESP32 Projects** 💻  
 
 ---
 
-💻 **Skills & Interests:**  
-- Programming: **C++, Python, Java**  
-- Web Development: **HTML, CSS, JavaScript**  
-- Tools: **Git, GitHub, VS Code**  
+### 💻 Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-008080?style=flat&logo=arduino&logoColor=white)
 
 ---
 
-🌱 **Currently Learning:**  
+### 🌱 Currently Learning
 - Data Structures & Algorithm mastery  
-- AI/ML project deployment  
+- AI/ML Project deployment  
+- Embedded Systems & IoT applications  
 
 ---
 
-📫 **Connect with me:**  
+### 📊 GitHub Stats
+![Runali's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkBytezz&show_icons=true&theme=radical)
+
+---
+
+### 🤝 Let's Connect
 - Email: runali.behera@example.com  
 - LinkedIn: [Runali Behera](https://www.linkedin.com/in/runali-behera)
+
+---
+
