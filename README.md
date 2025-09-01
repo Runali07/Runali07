@@ -34,7 +34,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Runali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Runali07_icons=true&theme=radical)
+![Runali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Runali07&show_icons=true&theme=radical)
+
 
 ---
 
