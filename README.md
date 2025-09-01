@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Runali Behera
 
-<!--
-**Runali07/Runali07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓  CSE Student (AI/ML) @ Chandigarh University**  
+💡 Passionate about **Artificial Intelligence, Machine Learning, and Coding**  
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+- Learning **Advanced Data Structures & Algorithms** 🌳  
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Skills & Interests**:
+- Programming: **C++, Python, Java**  
+- Web Development: **HTML, CSS, JavaScript**  
+- Tools: **Git, GitHub, VS Code**  
+
+🌱 **Currently Learning**:
+- Data Structures & Algorithm mastery  
+- AI/ML project deployment  
+
+
+📫 **Connect with me**:
+- Email: runali.behera@example.com  
+- LinkedIn: [Runali Behera](https://www.linkedin.com/in/runali-behera)   
+
+
